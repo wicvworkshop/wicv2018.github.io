@@ -1,1 +1,3 @@
-# wicv2018.github.io
+# wicvworkshop
+
+Website for Women in Computer Vision Workshop 2018
